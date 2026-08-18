@@ -133,17 +133,19 @@ jupyter notebook
 
 Open **`Pr_2.ipynb`**. Place `patient_health_records_50000.csv` beside the notebook or update the CSV path in the loading cell.
 
-## 📁 Repository Structure
+## 📂 Repository Structure
 
 ```text
 Patient-Health-Records-Data-Cleaning/
+│
 ├── 📓 Pr_2.ipynb
+│   └── Complete data cleaning & preprocessing notebook
+│
 ├── 📄 README.md
-├── 📄 requirements.txt
-├── 📄 .gitignore
-├── 📁 data/
-├── 📁 reports/
-└── 📁 images/
+│   └── Project documentation
+│
+└── 📊 patient_health_records_50000.csv
+    └── Original patient health dataset
 ```
 
 ## 🎯 Project Outcome
