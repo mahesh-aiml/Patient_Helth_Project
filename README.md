@@ -3,6 +3,10 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python) ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter) ![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas) ![Scikit--learn](https://img.shields.io/badge/scikit--learn-Imputation-F7931E?logo=scikit-learn) ![Status](https://img.shields.io/badge/Project-Completed-success)
 
 > A practical data-cleaning and preprocessing project on **50,000 patient health records**, focused on missing-value handling, outlier detection/treatment, and preparation for machine-learning workflows.
+## 📄 Project Documentation
+
+[👉 View / Download Project File](https://drive.google.com/file/d/1TNOrLpQKZKhUxAt-nRG7yp8Hqu35WkEO/view?usp=sharing)
+
 
 ## ✨ Project Overview
 
